@@ -1,7 +1,7 @@
 # Machine_Learning_Paper_List
 
 
-## Advertising
+## [Advertising](https://github.com/kemaswill/Machine_Learning_Paper_List/blob/master/Advertising/README.md)
 
 ## Learning to Rank
 
@@ -9,4 +9,4 @@
 
 ## Multi-Armed Bandit
 
-## Deep Learning
+## [Deep Learning](https://github.com/kemaswill/Machine_Learning_Paper_List/blob/master/Deep_Learning/README.md)
